@@ -1,0 +1,14 @@
+C:\Users\savas\source\repos\Delete_Pro\Delete_Pro\bin\Debug\Delete_Pro.exe.config
+C:\Users\savas\source\repos\Delete_Pro\Delete_Pro\bin\Debug\Delete_Pro.exe
+C:\Users\savas\source\repos\Delete_Pro\Delete_Pro\bin\Debug\Delete_Pro.pdb
+C:\Users\savas\source\repos\Delete_Pro\Delete_Pro\obj\Debug\Delete_Pro.csproj.AssemblyReference.cache
+C:\Users\savas\source\repos\Delete_Pro\Delete_Pro\obj\Debug\Delete_Pro.Try.resources
+C:\Users\savas\source\repos\Delete_Pro\Delete_Pro\obj\Debug\Delete_Pro.Properties.Resources.resources
+C:\Users\savas\source\repos\Delete_Pro\Delete_Pro\obj\Debug\Delete_Pro.csproj.GenerateResource.cache
+C:\Users\savas\source\repos\Delete_Pro\Delete_Pro\obj\Debug\Delete_Pro.csproj.CoreCompileInputs.cache
+C:\Users\savas\source\repos\Delete_Pro\Delete_Pro\obj\Debug\Delete_Pro.exe
+C:\Users\savas\source\repos\Delete_Pro\Delete_Pro\obj\Debug\Delete_Pro.pdb
+C:\Users\savas\source\repos\Delete_Pro\Delete_Pro\obj\Debug\Delete_Pro.exe.config
+C:\Users\savas\source\repos\Delete_Pro\Delete_Pro\obj\Debug\Delete_Pro.Ekleme_işlemleri.resources
+C:\Users\savas\source\repos\Delete_Pro\Delete_Pro\obj\Debug\Delete_Pro.Guncelle.resources
+C:\Users\savas\source\repos\Delete_Pro\Delete_Pro\obj\Debug\Delete_Pro.Personel_Sil.resources
